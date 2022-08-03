@@ -26,4 +26,5 @@ d = { 'settings': { 'audience': 'Developers',
                 'tst_flags': 'notest',
                 'user': 'diegolessa',
                 'version': '0.0.1'},
-  'syms': { 'hello_labdata_dl\\greetings': { 'hello_labdata_dl\\greetings.hello': 'https://diegolessa.github.io/hello_labdata_dl/hello_labdata_dl\\greetings.html#hello'}}}
+  'syms': { 'hello_labdata_dl\\greetings': { 'hello_labdata_dl\\greetings.hello': 'https://diegolessa.github.io/hello_labdata_dl/hello_labdata_dl\\greetings.html#hello'},
+            'hello_labdata_dl\\jokes': { 'hello_labdata_dl\\jokes.papagaio': 'https://diegolessa.github.io/hello_labdata_dl/hello_labdata_dl\\jokes.html#papagaio'}}}
