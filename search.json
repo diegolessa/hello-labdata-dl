@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "greetings.html",
+    "href": "greetings.html",
+    "title": "Greetings",
+    "section": "",
+    "text": "hello\n\n hello (to)\n\nComo utilizar:\nUtilize esse pacote para cumprimentar pessoas.\n\nhello(to='Diego')\n\n'Hi Diego!'"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "hello_labdata_dl",
+    "section": "",
+    "text": "hello(\"Diego\")\n\n'Hi Diego!'\nThis file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "hello_labdata_dl",
+    "section": "Install",
+    "text": "Install\n`pip install hello_labdata_dl"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "hello_labdata_dl",
+    "section": "How to use",
+    "text": "How to use\nUse esse pacote para cumprimentar as pessoas:\n\nhello(to=\"Maria\")\n\n'Hi Maria!'\n\n\n\nhello(to=\"Jose\")\n\n'Hi Jose!'"
+  },
+  {
+    "objectID": "jokes.html",
+    "href": "jokes.html",
+    "title": "Jokes",
+    "section": "",
+    "text": "papagaio\n\n papagaio ()\n\nComo utilizar:\nUtilize esse pacote para fazer piadas.\n\npapagaio()\n\n\"Aprendeu a falar 'Como estamos?' e virou PM.\""
+  }
+]
